@@ -1,0 +1,45 @@
+corpo {
+  plano de fundo :  gradiente linear (para baixo ,  # ff99cc ,  # 6699ff );
+  margem :  0 ;
+  preenchimento :  0 ;
+  font-family : Arial , sans-serif;
+}
+
+. recipiente {
+  largura :  80 % ;
+  margem :  0 automático;
+  alinhamento de texto : centro;
+}
+
+h1 {
+  tamanho da fonte :  3 em ;
+  cor : branco;
+  margem superior :  50 px ;
+}
+
+. imagens {
+  exibição : flexível;
+  justificar-conteúdo : centro;
+  flex-wrap : envoltório;
+  margem superior :  50 px ;
+}
+
+. imagens  img {
+  largura :  200 px ;
+  altura :  200 px ;
+  ajuste de objeto : capa;
+  margem :  10 px ;
+  raio da borda :  50 % ;
+  borda :  5 px branco sólido;
+  box-shadow :  2 px  2 px  5 px  rgba ( 0 ,  0 ,  0 ,  0.3 );
+}
+
+. textos {
+  margem superior :  50 px ;
+}
+
+. textos  p {
+  tamanho da fonte :  1,5 em ;
+  altura da linha :  1,5 ;
+  cor : branco;
+}
